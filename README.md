@@ -10,8 +10,7 @@ This personal account contains the various projects I've worked on in addition t
 
 I'm always happy to make new connections and to talk about opportunities to collaborate on new work, so feel free to reach out to me on the following channels! :> 
 
-- email: hans.wong@thinkingmachin.es / hxwwong@gmail.com
-- facebook: facebook.com/hxwwong 
+- email: hans.wong@thinkingmachin.es / hxwwong@gmail.com 
 - linkedin: https://www.linkedin.com/in/hxwwong/
 
 
