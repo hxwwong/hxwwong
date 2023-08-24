@@ -1,12 +1,12 @@
-Hi, I’m @hxwwong, a graduating student of De La Salle University taking AB - Behavioral Sciences, and a minor in Data Science. 
+Hi, I’m @hxwwong, a Data Operations Engineer working at Thinking Machines, a data consultancy based in the Philippines.
+
+I graduated from De La Salle University taking AB - Behavioral Sciences, and a minor in Data Science. 
 
 You might know me as Hans or Xavier/Xave depending on where we've met! But feel free to call me either of these when reaching out.
 
-I’m currently working as a DataOps engineer at Thinking Machines, a leading, Philippines-based data consultancy. In a nutshell, I help work to ensure the integrity and enhancement of different data platforms, products, and pipelines used by clients. 
+I have experience across the major domains of the data analytics and science landscape, having done work as a business intelligence analyst, a data engineer, an analytics engineer, and as an AI/ML fellow, but right now I'm focused on exploring areas where I can more directly use these skills and experiences to drive tangible business outcomes! 
 
-I'm interested in all things data, but for now I'm looking into upskilling in the Analytics Engineering and Data Engineering fields!
-
-This personal account contains the various projects I've worked on in addition to the work I've done as an data analyst. 
+This personal account contains the various projects I've worked on in addition to the work I've done as a data analyst. 
 
 I'm always happy to make new connections and to talk about opportunities to collaborate on new work, so feel free to reach out to me on the following channels! :> 
 
