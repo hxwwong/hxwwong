@@ -1,12 +1,12 @@
-Hi, I’m @hxwwong, a Data Operations Engineer working at Thinking Machines, a data consultancy based in the Philippines.
+Hi, I’m @hxwwong, a Customer Success Manager, and former Data Operations Engineer working at Thinking Machines, a data consultancy based in the Philippines.
 
 I graduated from De La Salle University with a B.A. in Behavioral Sciences, majoring in Organizational Development and Social Systems Management, and a minor in Data Science from the Andrew L Tan Data Science Institute. 
 
 You might know me as Hans or Xavier/Xave depending on where we've met! But feel free to call me either of these when reaching out.
 
-I have experience across the major domains of the data landscape, having done work as a business intelligence analyst, a data engineer, an analytics engineer, and an AI/ML developer.
+I have experience across the major domains of the data landscape, having done work as a business intelligence analyst, a data engineer, an analytics engineer, and an AI/ML developer. 
 
-Right now, I'm focused on exploring areas where I can more directly use these skills and experiences to drive tangible business outcomes! 
+Now, I'm focused on exploring areas where I can more directly use these skills and experiences to drive tangible business outcomes! I've led strategic projects, and manage clients to ensure they constantly derive value from our data solutions.
 
 I'm passionate not only about ensuring high-quality data, but that it is used in a way that provides a clear impact on people's lives. 
 
