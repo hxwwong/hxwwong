@@ -1,20 +1,55 @@
-Hi, I’m @hxwwong, a Customer Success Manager, and former Data Operations Engineer working at Thinking Machines, a data consultancy based in the Philippines.
+# Hi, I'm Hans (or Xave) 👋
 
-I graduated from De La Salle University with a B.A. in Behavioral Sciences, majoring in Organizational Development and Social Systems Management, and a minor in Data Science from the Andrew L Tan Data Science Institute. 
+> Data professional turned product & governance thinker.  
+> Building at the intersection of data, people, and outcomes.
 
-You might know me as Hans or Xavier/Xave depending on where we've met! But feel free to call me either of these when reaching out.
+---
 
-I have experience across the major domains of the data landscape, having done work as a business intelligence analyst, a data engineer, an analytics engineer, and an AI/ML developer. 
+## 🧭 What I'm About
 
-Now, I'm focused on exploring areas where I can more directly use these skills and experiences to drive tangible business outcomes! I've led strategic projects, and manage clients to ensure they constantly derive value from our data solutions.
+I've spent my career moving across the full data stack — from pipelines and models  
+to dashboards and client strategy — which means I care less about titles and more  
+about whether something actually works for the people using it.
 
-I'm passionate not only about ensuring high-quality data, but that it is used in a way that provides a clear impact on people's lives. 
+These days, I'm focused on **product and program work**: turning complex technical  
+and operational problems into structured, deliverable solutions. I've led strategic  
+projects, managed stakeholders across functions, and kept programs on track in  
+high-stakes environments.
 
-This personal account contains the various projects I've worked on over my career and in my personal time, 
+---
 
-I'm always happy to make new connections and to talk about opportunities to collaborate on new work, so feel free to reach out to me on the following channels! :> 
+## 🛠️ Background
 
-- email: hans.wong@thinkingmachin.es / hxwwong@gmail.com 
-- linkedin: https://www.linkedin.com/in/hxwwong/
+- 🎓 **B.A. Behavioral Sciences** (Org Development & Social Systems), De La Salle University  
+  — with a minor in Data Science from the Andrew L. Tan Data Science Institute
+- 💼 Former **Customer Success Manager** and **Data Operations Engineer** at  
+  [Thinking Machines](https://thinkingmachin.es), a data consultancy in the Philippines
+- 📱 Former **Product Manager at [Maya](https://maya.ph)** — owned the product roadmap  
+  for Fraud, AML, and DS/AI Solutions
+- 🏦 Currently working in **governance and compliance** at a financial institution —  
+  leading structured programs where getting the details right actually matters
 
+**Domains I've worked across:**  
+`Business Intelligence` · `Data Engineering` · `Analytics Engineering` · `AI/ML`  
+`Product Management` · `Fraud & AML` · `Client Strategy` · `Program Governance`
 
+---
+
+## 🤖 Currently Exploring
+
+I've been getting into **AI-assisted development** — using Claude and modern LLM tools  
+to prototype and ship things faster than the traditional stack would allow.  
+More projects coming soon. Watch this space.
+
+---
+
+## 📫 Let's Connect
+
+Always happy to talk about collaboration, opportunities, or just swap ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hxwwong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hxwwong/)
+[![Email](https://img.shields.io/badge/Email-hxwwond@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hxwwond@gmail.com)
+
+---
+
+*You might also know me as Xavier — either works!* 😄
